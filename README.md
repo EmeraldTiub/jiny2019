@@ -2,4 +2,4 @@
 
 <img src="https://c.tenor.com/KnKvTRuJZPIAAAAC/gordon-ramsay-hells-kitchen.gif" alt="">
 
-Where to find me - <a href="https://github.com/jiny2021">Here</a>
+My organization - <a href="https://github.com/jiny2021">Conkermobile</a>
