@@ -10,4 +10,4 @@
 
 ### Popular repos
 
-<img src="![image](https://user-images.githubusercontent.com/86202719/189422241-0400cf5e-4f00-433f-bfaa-4d3adc6d90e4.png)">
+<img src="https://user-images.githubusercontent.com/86202719/189422241-0400cf5e-4f00-433f-bfaa-4d3adc6d90e4.png">
