@@ -6,3 +6,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiny2021&theme=onedark)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&theme=tokyonight)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
