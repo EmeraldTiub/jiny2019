@@ -7,4 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&theme=tokyonight)
 
+### Public Repos
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=Links&theme=tokyonight)](https://github.com/jiny2021/Links) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=HotOrCold&theme=tokyonight)](https://github.com/jiny2021/HotOrCold) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=ObjectsDataStructures_Test&theme=tokyonight)](https://github.com/jiny2021/ObjectsDataStructures_Test)
