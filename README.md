@@ -5,4 +5,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiny2021&theme=github_dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&theme=tokyonight)
