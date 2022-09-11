@@ -9,4 +9,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=Links&theme=tokyonight)](https://github.com/jiny2021/Links)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=HorOrCold&theme=tokyonight)](https://github.com/jiny2021/HotOrCold)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=HotOrCold&theme=tokyonight)](https://github.com/jiny2021/HotOrCold)
