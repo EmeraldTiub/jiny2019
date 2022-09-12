@@ -5,8 +5,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiny2021&theme=tokyonight)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&theme=tokyonight)
-
 ### Public Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=Links&theme=tokyonight&show_owner=true)](https://github.com/jiny2021/Links) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=HotOrCold&theme=tokyonight&show_owner=true)](https://github.com/jiny2021/HotOrCold) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=ObjectsDataStructures_Test&theme=tokyonight&show_owner=true)](https://github.com/jiny2021/ObjectsDataStructures_Test)
