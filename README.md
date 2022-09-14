@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiny2021&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&layout=compact&theme=tokyonight)](https://github.com/jiny2021)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&theme=tokyonight)](https://github.com/jiny2021)
 
 ### Public Repos
 
