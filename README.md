@@ -7,4 +7,4 @@
 
 ### Public Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=Links&theme=tokyonight&show_owner=true)](https://github.com/jiny2021/Links) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=HotOrCold&theme=tokyonight&show_owner=true)](https://github.com/jiny2021/HotOrCold) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=ObjectsDataStructures_Test&theme=tokyonight&show_owner=true)](https://github.com/jiny2021/ObjectsDataStructures_Test)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=Links&theme=tokyonight&show_owner=true&bg_color=60,fc2803,fce303)](https://github.com/jiny2021/Links) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=HotOrCold&theme=tokyonight&show_owner=true&bg_color=60,fc2803,fce303)](https://github.com/jiny2021/HotOrCold) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jiny2021&repo=ObjectsDataStructures_Test&theme=tokyonight&show_owner=true&bg_color=60,fc2803,fce303)](https://github.com/jiny2021/ObjectsDataStructures_Test)
