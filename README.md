@@ -1,7 +1,7 @@
 ### Hello world
 ![](https://komarev.com/ghpvc/?username=jiny2021&color=orange)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiny2021&count_private=true&bg_color=60,ADD8E6,00FF00,FF0000,8B8000,FFA500,A020F0&title_color=000000&text_color=fff&border_radius=40)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiny2021&bg_color=60,ADD8E6,00FF00,FF0000,8B8000,FFA500,A020F0&title_color=000000&text_color=fff&border_radius=40)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiny2021&theme=tokyonight)](https://git.io/streak-stats)
 
