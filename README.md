@@ -3,9 +3,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiny2021&count_private=true&theme=tokyonight)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiny2021&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&bg_color=30,ff8503,a832a8,0390fc&title_color=fff&text_color=fff&border_radius=60&layout=compact)](https://github.com/jiny2021)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiny2021&bg_color=60,ADD8E6,00FF00,ff8503,a832a8,0390fc&title_color=000000&text_color=fff&border_radius=40)](https://git.io/streak-stats)
 
 ### Public Repos
 
