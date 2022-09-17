@@ -5,7 +5,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiny2021&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&bg_color=30,ff8503,a832a8,0390fc&title_color=fff&text_color=fff&border_radius=10&layout=compact)](https://github.com/jiny2021)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&bg_color=30,ff8503,a832a8,0390fc&title_color=fff&text_color=fff&border_radius=100&layout=compact)](https://github.com/jiny2021)
 
 ### Public Repos
 
