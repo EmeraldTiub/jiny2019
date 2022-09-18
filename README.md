@@ -1,5 +1,5 @@
 ### Hello world
-![](https://komarev.com/ghpvc/?username=jiny2021&color=orange)
+![](https://komarev.com/ghpvc/?username=jiny2021&color=green)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiny2021&bg_color=60,fc2803,fce303&title_color=fff&text_color=fff&border_radius=40&show_icons=true)
 
