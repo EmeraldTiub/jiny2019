@@ -9,4 +9,4 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiny2021&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiny2021&theme=cobalt2)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiny2021&theme=gruvbox)
