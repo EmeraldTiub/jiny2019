@@ -7,3 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&layout=compact&bg_color=20,ffe302,FFA500,0000FF&title_color=000000&text_color=fff&border_radius=40)](https://github.com/jiny2021)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiny2021&theme=github_dark)
