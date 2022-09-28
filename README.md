@@ -1,4 +1,4 @@
-### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px" color="orange">
+### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px" color="blue">
 
 ![](https://komarev.com/ghpvc/?username=jiny2021&color=green)
 
