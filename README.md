@@ -19,3 +19,5 @@
 
 ### My contribution graph
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiny2021&theme=gruvbox)
+
+<img height="300px" src="https://activity-graph.herokuapp.com/graph?username=jiny2021&theme=cobalt2"/>
