@@ -23,4 +23,4 @@
 <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=jiny2021&theme=merko"/>
 
 ### My snake
-<img src="https://raw.githubusercontent.com/jiny2021/output/github-contribution-grid-snake.svg" width="100%">
+![](https://github.com/jiny2021/jiny2021/raw/output/github-contribution-grid-snake.svg)
