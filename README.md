@@ -21,6 +21,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiny2021&theme=gruvbox)
 
 <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=jiny2021&theme=merko"/>
-
-### My skyline
-<a href="https://skyline.github.com/jiny2021/2021" title="2021 GitHub Skyline"><img src="https://user-images.githubusercontent.com/26674818/162868221-339ea6d5-d218-4b22-91c8-7045ed31d81e.png" alt="2020 GitHub Skyline" width="50%" /></a>
