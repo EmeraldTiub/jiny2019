@@ -20,4 +20,4 @@
 ### My contribution graphs
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiny2021&theme=gruvbox)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=qingy2019)
+![trophy](https://github-profile-trophy.vercel.app/?username=ruo2019)
