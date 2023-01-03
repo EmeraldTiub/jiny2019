@@ -19,3 +19,6 @@
 
 ### My contribution graphs
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiny2021&theme=gruvbox)
+
+### My Leetcode badges
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=jiny2021)
