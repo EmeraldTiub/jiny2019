@@ -1,5 +1,6 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px" color="blue">
-### Chubby cheeks! 
+### Chubby cheeks! ![image](https://user-images.githubusercontent.com/86202719/214725472-be0dc954-836e-41a6-aacd-8bca63e09d6e.png)
+
 
 ### Hi, guys! I'm jiny2021! 😀
 
