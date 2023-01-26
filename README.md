@@ -1,5 +1,5 @@
 ### Hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px" color="blue">
-### Chubby cheeks! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+### Chubby cheeks! 
 
 ### Hi, guys! I'm jiny2021! 😀
 
