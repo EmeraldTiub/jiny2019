@@ -1,4 +1,4 @@
-### Hello World
+### Hello World <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px" color="blue">
 
 
 ### Hi, guys! I'm jiny2021! 😀
