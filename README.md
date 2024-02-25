@@ -11,7 +11,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SKUNKERONI&theme=blue-green)
 
 ### My language usage
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiny2021&layout=compact&bg_color=20,ffe302,FFA500,0000FF&title_color=000000&text_color=fff&border_radius=40)](https://github.com/SKUNKERONI)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SKUNKERONI&layout=compact&bg_color=20,ffe302,FFA500,0000FF&title_color=000000&text_color=fff&border_radius=40)](https://github.com/SKUNKERONI)
 
 ### Badges
 ![trophy](https://github-profile-trophy.vercel.app/?username=SKUNKERONI)
