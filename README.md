@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jiny2021&color=green)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SKUNKERONI?theme=wtf&font=Bungee-Spice%202&ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SKUNKERONI?theme=wtf&font=Bungee-spice%202&ext=contest)
 
 ### Badges
 ![trophy](https://github-profile-trophy.vercel.app/?username=SKUNKERONI)
