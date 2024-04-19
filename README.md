@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=jiny2021&color=green)
 
 ### MA LEETCODE STUFF
-![Leetcode Stats](https://leetcard.jacoblin.cool/SKUNKERONI?theme=wtf&font=Sixtyfour%202&ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/LittleTiubsFounder?theme=wtf&font=Sixtyfour%202&ext=contest)
 
 ### Badges
-![trophy](https://github-profile-trophy.vercel.app/?username=SKUNKERONI)
+![trophy](https://github-profile-trophy.vercel.app/?username=LittleTiubsFounder)
