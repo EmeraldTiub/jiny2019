@@ -8,4 +8,4 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/LittleTiubsFounder?theme=wtf&font=Sixtyfour%202&ext=contest)
 
 ### Badges
-![trophy](https://github-profile-trophy.vercel.app/?username=LittleTiubsFounder)
+![trophy](https://leetcode-badge-showcase.vercel.app/api?username=LittleTiubsFounder)
