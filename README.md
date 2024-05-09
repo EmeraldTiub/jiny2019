@@ -6,6 +6,7 @@
 
 ### MA LEETCODE STUFF
 ![Leetcode Stats](https://leetcard.jacoblin.cool/LittleTiubsFounder?theme=wtf&font=Sixtyfour%202&ext=contest)
+![Badges](https://leetcode-badge-showcase.vercel.app/api?username=LittleTiubsFounder)
 
 ### Badges
 ![trophy](https://leetcode-badge-showcase.vercel.app/api?username=LittleTiubsFounder)
