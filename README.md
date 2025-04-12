@@ -10,3 +10,4 @@
 
 ### Badges
 ![trophy](https://leetcode-badge-showcase.vercel.app/api?username=fire_tiub)
+afdsa
